@@ -1,2 +1,2 @@
 # Hello, I'm Evandro Fruhauf 👋🏻
-## I'm Lead Engineer at [StorIQ](http://storiq.net)
+## I'm CTO at [Orin](http://orinsolucoes.com.br)
